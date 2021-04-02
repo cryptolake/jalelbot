@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import discord
-from discord import voice
 import random
 from random import randint
 from os import listdir
