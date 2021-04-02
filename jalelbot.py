@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 import discord
-from random import random,randint
+from discord import voice
+import random
+from random import randint
 from os import listdir
 
 jalel = open('./jalel').readlines()
